@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\GLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\GLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\resources\frag.glsl" />
+    <None Include="C:\Users\Mikey\OneDrive\Desktop\CSCE 441 Lab 4\resources\vert.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B973992-E197-390E-915A-3E911B509F9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5EA6CD56-793F-3831-A880-525FC8A67B48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
