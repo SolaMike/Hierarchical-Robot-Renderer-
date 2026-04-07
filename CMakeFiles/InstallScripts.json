@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/Mikey/OneDrive/Desktop/CSCE 441 Lab 4/cmake_install.cmake",
-		"C:/Users/Mikey/OneDrive/Desktop/CSCE 441 Lab 0/glfw-3.4/debug/cmake_install.cmake",
-		"C:/Users/Mikey/OneDrive/Desktop/CSCE 441 Lab 0/glfw-3.4/debug/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
